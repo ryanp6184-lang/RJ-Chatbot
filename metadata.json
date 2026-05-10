@@ -1,0 +1,6 @@
+{
+  "name": "Lumina AI",
+  "description": "An advanced AI assistant designed for multimodal intelligence, creative problem-solving, and professional collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["CHAT", "IMAGE_GENERATION"]
+}
